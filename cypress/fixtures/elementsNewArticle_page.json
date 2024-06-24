@@ -1,0 +1,12 @@
+{
+    "newArticlePage": "a.nav-link[href='#/editor']",
+    "articleTitleElement": "input[type='text'][placeholder='Article Title'].form-control.form-control-lg",
+    "articleTitleText": "This is the title test",
+    "articleSubTitleText":"This is the subTitle test",
+    "articleTextElement": "textarea.form-control[rows='8'][placeholder='Write your article (in markdown)']",
+    "articleText": "This is the article text that we are testing",
+    "articleTagsElement": "input.form-control[placeholder='Enter tags']",
+    "articleTagsText": "Test",
+    "publishArticleButton": "button[type='submit'].btn.btn-lg.pull-xs-right.btn-primary"
+  }
+  

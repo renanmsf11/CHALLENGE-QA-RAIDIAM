@@ -1,0 +1,12 @@
+{
+  
+  "signUpPage": "a.nav-link[href='#/register']",
+  "usernameField": "input[type='text'][placeholder='Username'].form-control.form-control-lg" ,
+  "emailField": "input[type='text'][placeholder='Email'].form-control.form-control-lg",
+  "passwordField":  "input[type='password'][placeholder='Password'].form-control.form-control-lg",
+  "username":"test user 01",
+  "email": "userstest01@gmail.com",
+  "password": "gogo123",
+  "loginPage": "a.nav-link[href='#/login']",
+  "settingsPage": "a.nav-link[href='#/settings']"
+}
